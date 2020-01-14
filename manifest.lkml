@@ -7,7 +7,7 @@
 #   project: "name_of_other_project"
 # }
 
-application: extension-template {
-  label: "Extension Template"
+application: my-great-extension {
+  label: "My Great Extension"
   url: "http://localhost:8080/bundle.js"
 }
